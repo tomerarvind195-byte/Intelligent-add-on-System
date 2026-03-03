@@ -1,0 +1,12 @@
+user_id,cart_item,time_of_day,add_on
+1,Biryani,Lunch,Raita
+1,Biryani,Lunch,Gulab Jamun
+2,Pizza,Dinner,Coke
+2,Burger,Evening,Fries
+3,Biryani,Dinner,Salan
+4,Burger,Lunch,Fries
+
+5,Manchurian,Breakfast,Noodles
+6,Momo,Breakfast,Coldrink
+7,Manchurian,Dinner,Rice
+8,Manchurian,Dinner,Coldrink
