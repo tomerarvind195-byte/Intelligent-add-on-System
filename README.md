@@ -53,9 +53,9 @@ Inspired by real-world recommendation engines used in e-commerce platforms like 
 **Key Highlights:**
 - Analyzes user input to detect preferences and interests
 - Scores and ranks products based on relevance to user profile
-- Handles 5+ product categories with 20+ products in the dataset
-- Intelligent filtering — eliminates irrelevant products automatically
-- Continuous session — refine recommendations based on feedback
+- Handles 5+ product categories with 20+ products in the dataset.
+- Intelligent filtering — eliminates irrelevant products automatically.
+- Continuous session — refine recommendations based on feedback.
 
 ---
 
