@@ -139,7 +139,7 @@ User enters preferences (text input)
 ## 📦 Product Categories
 
 | Category | Examples |
-|----------|---------|
+|----------|----------|
 | Electronics | Laptop, Headphones, Smartwatch |
 | Accessories | Keyboard, Mouse, Monitor |
 | Software | IDE Extensions, Antivirus, Design Tools |
