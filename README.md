@@ -12,7 +12,7 @@
 
 ## 📸 Demo
 
-> _(Terminal screenshot yahan add karo)____
+> _(Terminal screenshot yahan add karo)_
 
 ```
 ================================================
@@ -53,9 +53,9 @@ Inspired by real-world recommendation engines used in e-commerce platforms like 
 **Key Highlights:**
 - Analyzes user input to detect preferences and interests
 - Scores and ranks products based on relevance to user profile
-- Handles 5+ product categories with 20+ products in the dataset.
-- Intelligent filtering — eliminates irrelevant products automatically.
-- Continuous session — refine recommendations based on feedback.
+- Handles 5+ product categories with 20+ products in the dataset
+- Intelligent filtering — eliminates irrelevant products automatically
+- Continuous session — refine recommendations based on feedback
 
 ---
 
@@ -139,7 +139,7 @@ User enters preferences (text input)
 ## 📦 Product Categories
 
 | Category | Examples |
-|----------|----------|
+|----------|---------|
 | Electronics | Laptop, Headphones, Smartwatch |
 | Accessories | Keyboard, Mouse, Monitor |
 | Software | IDE Extensions, Antivirus, Design Tools |
@@ -202,12 +202,12 @@ intelligent-addon-system/
 
 ## 🔮 Future Improvements
 
-- [ ] Add machine learning using `scikit-learn` (collaborative filtering)
-- [ ] Connect to a real product database via API (Amazon / Flipkart)
+- [ ] Add basic ML-based scoring (future learning goal)
+- [ ] Connect to a product dataset via CSV or JSON file
 - [ ] Build a web interface using Django
 - [ ] Add user login to save preference history across sessions
-- [ ] Use NLP (`NLTK` / `spaCy`) for smarter keyword extraction
-- [ ] Train a neural network model for better recommendations
+- [ ] Improve keyword extraction using regex and string processing
+- [ ] Expand product categories and improve scoring algorithm
 
 ---
 
