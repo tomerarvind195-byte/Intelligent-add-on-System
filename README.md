@@ -12,7 +12,7 @@
 
 ## 📸 Demo
 
-> _(Terminal screenshot yahan add karo)_
+> _
 
 ```
 ================================================
