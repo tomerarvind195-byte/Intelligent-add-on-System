@@ -88,7 +88,7 @@ Inspired by real-world recommendation engines used in e-commerce platforms like 
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.14+
 - Git
 
 ### Installation
