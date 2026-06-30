@@ -228,6 +228,7 @@ intelligent-addon-system/
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arvind-kumar-399a60338)
 - 💻 [GitHub](https://github.com/tomerarvind195-byte)
 - 📧 tomerarvind195@gmail.com
+- 📧  arvind.it.24023@recb.ac.in
 
 ---
 
