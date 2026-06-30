@@ -189,7 +189,7 @@ def get_recommendations(user_input, product_database, top_n=5):
 ```
 intelligent-addon-system/
 │
-├── main.py              # Entry point — run this
+├── main.py              # Entry point — run this vs code
 ├── engine.py            # Recommendation engine & scoring logic
 ├── extractor.py         # Keyword extraction from user input
 ├── products.py          # Product database (categories + tags)
@@ -204,7 +204,7 @@ intelligent-addon-system/
 
 - [ ] Add basic ML-based scoring (future learning goal)
 - [ ] Connect to a product dataset via CSV or JSON file
-- [ ] Build a web interface using Django
+- [ ]  Build a web interface using Django
 - [ ] Add user login to save preference history across sessions
 - [ ] Improve keyword extraction using regex and string processing
 - [ ] Expand product categories and improve scoring algorithm
